@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://primerank-dubai-black-auction-2026.vercel.app/sitemap.xml
